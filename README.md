@@ -1,5 +1,5 @@
 # Tutorial_MySQL
-Some tutorial and not about MySQL.
+Some tutorials and notes about MySQL.
 
 refer to ：https://dev.mysql.com/doc/refman/5.5/en/
 
