@@ -1,2 +1,2 @@
 # Tutorial_MySQL
-MySQL
+学MySQL的一些笔记。
