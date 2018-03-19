@@ -1,7 +1,7 @@
 # Tutorial_MySQL
-学MySQL的一些笔记。
+Some tutorial and not about MySQL.
 
-参考：https://dev.mysql.com/doc/refman/5.5/en/
+refer to ：https://dev.mysql.com/doc/refman/5.5/en/
 
 Server version: 5.5.59-0 
 
