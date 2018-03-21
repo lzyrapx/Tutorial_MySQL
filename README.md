@@ -1,7 +1,13 @@
 # Tutorial_MySQL
 Some tutorials and notes about MySQL.
 
-refer to ：https://dev.mysql.com/doc/refman/5.5/en/
+refer to ：
+
+https://dev.mysql.com/doc/refman/5.5/en/
+
+[MySQL 官方文档](https://dev.mysql.com/doc/)
+
+[MySQL 参考手册中文版](https://www.gitbook.com/book/strongyoung/mysql-reference-manual/details)
 
 Server version: 5.5.59-0 
 
