@@ -3,7 +3,7 @@ Some tutorials and notes about MySQL.
 
 refer to ：
 
-https://dev.mysql.com/doc/refman/5.5/en/
+[MySQL 5.5 Reference Manual](https://dev.mysql.com/doc/refman/5.5/en/)
 
 [MySQL 官方文档](https://dev.mysql.com/doc/)
 
