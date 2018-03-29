@@ -2,6 +2,7 @@
 Some tutorials and notes about MySQL.
 
 refer to ：
+[SQL教程](http://www.w3school.com.cn/sql/index.asp)
 
 [MySQL 5.5 Reference Manual](https://dev.mysql.com/doc/refman/5.5/en/)
 
